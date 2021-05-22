@@ -10,7 +10,7 @@ public class AddToCartPage {
 	}
 	private By cart=By.id("cart");
 	public void addToCart() {
-		System.out.println("add to cart");
+		System.out.println("add to cart New");
 	}
 	
 	}
